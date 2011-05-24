@@ -34,3 +34,10 @@
 I think you get the idea. Any files that are not valid utf-8 will be base64 encoded! Additionally, start and end whitespace is trimmed from text files and a single newline is appended, so be sure you're OK with that.
 
 There really is nothing else to it.
+
+
+## License
+
+If there's one thing I hate more than copyright, it's people who force me, a programmer (not a lawyer), to care about copyright. Yes, I'm looking at you, Stallman.
+
+If you are *really* concerned that I might sue you (hint: I won't), you can consider my code under the ![WTFPL](http://en.wikipedia.org/wiki/WTFPL).
