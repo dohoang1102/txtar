@@ -38,6 +38,8 @@ There really is nothing else to it.
 
 ## License
 
+Instead of a license, txtar has a rant.
+
 If there's one thing I hate more than copyright, it's people who force me, a programmer (not a lawyer), to care about copyright. Yes, I'm looking at you, Stallman.
 
-If you are *really* concerned that I might sue you (hint: I won't), you can consider my code under the ![WTFPL](http://en.wikipedia.org/wiki/WTFPL).
+If you are *really* concerned that I might sue you (hint: I won't), you can consider my code under the [WTFPL](http://en.wikipedia.org/wiki/WTFPL).
