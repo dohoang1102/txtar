@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'txtar_p' target in the 'txtar_p' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
