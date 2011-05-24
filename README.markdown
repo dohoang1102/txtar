@@ -1,5 +1,4 @@
-# txtar
-## Text Archiver
+# txtar: Text Archiver
 
 `txtar` is an archiver -- like `tar`. However, the archives that `txtar` outputs are human readable plain text files. Importantly, it is possible to write txtar archives directly (in a text editor) and have it output a full directory structure.
 
@@ -32,4 +31,6 @@
     
     The potato is a starchy, tuberous crop from the perennial Solanum tuberosum of the Solanaceae family (also known as the nightshades). The word potato may refer to the plant itself as well as the edible tuber. In the region of the Andes, there are some other closely related cultivated potato species. Potatoes were first introduced outside the Andes region four centuries ago, and have become an integral part of much of the world's cuisine. It is the world's fourth-largest food crop, following rice, wheat, and maize. Long-term storage of potatoes requires specialised care in cold warehouses.
 
-I think you get the idea. There really is nothing else to it.
+I think you get the idea. Any files that are not valid utf-8 will be base64 encoded! Additionally, start and end whitespace is trimmed from text files and a single newline is appended, so be sure you're OK with that.
+
+There really is nothing else to it.
